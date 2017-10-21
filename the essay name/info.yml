@@ -38,6 +38,6 @@ clear_page_depth: 1
 toc_depth_book: 3
 toc_depth_article: 3
 toc_depth_mobile: 3
-targets: [book] #, book_alt, article, article_alt, mob, mob_alt]
+targets: [article] #, book_alt, article, article_alt, mob, mob_alt]
 
 version: "0.1.0"

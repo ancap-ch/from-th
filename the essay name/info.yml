@@ -2,33 +2,34 @@
 
 # en br jp th
 language: th
-fallback: en
 translation: false
 
 # cover
-titles: [หัวเรื่องใหญ่, คำบรรยาย, หัวเรื่องย่อย, Last Title]
-authors: [ชื่อผู้แต่ง, ชื่อผู้แต่งรายอื่น, ชื่อผู้แต่งที่สาม, Last Author]
-collaborators: [ชื่อผู้ทำงานร่วมกัน, อีกชื่อที่ได้รับความนิยม, อันดับที่สามชื่อ, Last Collab]
-thanks: [ชื่อที่ได้รับความนิยม, อีกชื่อที่ได้รับความนิยม, อันดับที่สามชื่อ, Last Thx]
-translators: [ชื่อนักแปล, อีกชื่อนักแปล, ชื่อนักแปลที่สาม, Last Transl]
-reviwers: [ชื่อผู้ถอดถอน, อีกชื่อ, ชื่อผู้แปรญัตติคนที่สาม, Last Reviwer]
-tags: [แท็ก 1, แท็ก 2, แท็ก 3, แท็ก 4, Last Tag]
+titles: [หัวเรื่องใหญ่,คำบรรยาย~~~,หัวเรื่องย่อย~~~,Last~Title~~~~~~]
+authors: [ชื่อผู้แต่ง,ชื่อผู้แต่งรายอื่น,ชื่อผู้แต่งที่สาม,Last~Author]
+collaborators: [ชื่อผู้ทำงานร่วมกัน,อีกชื่อที่ได้รับความนิยม,อันดับที่สามชื่อ,Last~Collab]
+thanks: [ชื่อที่ได้รับความนิยม,อีกชื่อที่ได้รับความนิยม,อันดับที่สามชื่อ,Last~Thx]
+translators: [ชื่อนักแปล,อีกชื่อนักแปล,ชื่อนักแปลที่สาม,Last~Transl]
+reviwers: [ชื่อผู้ถอดถอน,อีกชื่อ,ชื่อผู้แปรญัตติคนที่สาม,Last~Reviwer]
+tags: [แท็ก 1, แท็ก 2,แท็ก 3,แท็ก 4,Last Tag]
 mds: [test.md]
 
 # urls
 discussions: 
-  - ["https://en.ancap.ch/1", Community Name]
-  - ["https://another-discussion.com/", Another Community Name]
-transifex_other: "https://transifex.com/thai_ex_1_other"
-transifex_done: "https://transifex.com/thai_ex_1_done"
+  - ["https://en.ancap.ch/1",Community~Name]
+  - ["https://another-discussion.com/",Another~Community~Name]
+transifex:
+  done: "https://transifex.com/thai_ex_1_done"
+  other: "https://transifex.com/thai_ex_1_other"
+  fetch_info: false
 original: "https://author-website.com/"
-more_infos: 
-  - ["https://more-info.com/", Website Name]
-  - ["https://another-more-info.com/", Another Website Name]
 tags_prefix: "https://tag-prefix.com/tag-name="
+more_infos: 
+  - ["https://more-info.com/",Website~Name]
+  - ["https://another-more-info.com/",Another~Website~Name]
 artists:
-  - ["http://image-website.com/", Image Description, Artist Name, Another Artist Name, Third Artist Name]
-  - ["http://another-image-website.com/", Another Image Description, Another Artist Name, Second Another Artist Name]
+  - ["http://image-website.com/",Image~Description,Artist~Name,Another~Artist~Name,Third~Artist~Name]
+  - ["http://another-image-website.com/",Another~Image~Description,Another~Artist~Name,Second~Another~Artist~Name]
 
 # settings
 reset_footer_active: false

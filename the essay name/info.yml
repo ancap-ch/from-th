@@ -6,13 +6,13 @@ fallback: en
 translation: false
 
 # cover
-titles: [The Big Title, The Subtitle, Sub-Sub Title]
-authors: [Author Name, Another Author Name, Third Author Name]
-collaborators: [Collaborator Name, Another Thanked Name, Third Thanked Name]
-thanks: [Thanked Name, Another Thanked Name, Third Thanked Name]
-translators: [Translator Name, Another Translator Name, Third Translator Name]
-reviwers: [Reviwer Name, Another Reviwer Name, Third Reviwer Name]
-tags: [Tag1, Tag2, Tag3, Tag4]
+titles: [หัวเรื่องใหญ่, คำบรรยาย, หัวเรื่องย่อย, Last Title]
+authors: [ชื่อผู้แต่ง, ชื่อผู้แต่งรายอื่น, ชื่อผู้แต่งที่สาม, Last Author]
+collaborators: [ชื่อผู้ทำงานร่วมกัน, อีกชื่อที่ได้รับความนิยม, อันดับที่สามชื่อ, Last Collab]
+thanks: [ชื่อที่ได้รับความนิยม, อีกชื่อที่ได้รับความนิยม, อันดับที่สามชื่อ, Last Thx]
+translators: [ชื่อนักแปล, อีกชื่อนักแปล, ชื่อนักแปลที่สาม, Last Transl]
+reviwers: [ชื่อผู้ถอดถอน, อีกชื่อ, ชื่อผู้แปรญัตติคนที่สาม, Last Reviwer]
+tags: [แท็ก 1, แท็ก 2, แท็ก 3, แท็ก 4, Last Tag]
 mds: [test.md]
 
 # urls
